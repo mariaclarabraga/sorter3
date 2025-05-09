@@ -3,12 +3,7 @@ body {
   font-size: 16px;
 }
 
-.rainbow-text {
-  background-image: linear-gradient(to left, violet, indigo, blue, green, rgb(182, 170, 38), orange, red);
-  color: transparent;
-  background-clip: text;
-  -webkit-background-clip: text;
-}
+
 
 .container {
   display: flex;
