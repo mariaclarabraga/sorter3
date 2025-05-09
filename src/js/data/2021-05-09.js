@@ -65,7 +65,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Hakurei Reimu",
-    img: "c5DqpgX.png",
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png",
     opts: {
       series: ["book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "SWR", "SA", "UFO", "Soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK"],
       stage: ["st4"]
