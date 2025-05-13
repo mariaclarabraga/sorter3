@@ -3,62 +3,62 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Filter by Series Entry",
+    name: "7 Filter by Series Entry",
     key: "series",
     tooltip: "Check this to restrict to certain series.",
     checked: false,
     sub: [
-      { name: "Books and CDs", key: "book" },
-      { name: "The Highly Responsive to Prayers", tooltip: "01 - Reiiden", key: "HRtP" },
-      { name: "The Story of Eastern Wonderland", tooltip: "02 - Fuumaroku", key: "SoEW" },
-      { name: "Phantasmagoria of Dim.Dream", tooltip: "03 - Yumejikuu", key: "PoDD" },
-      { name: "Lotus Land Story", tooltip: "04 - Gensoukyou", key: "LLS" },
-      { name: "Mystic Square", tooltip: "05 - Kaikidan", key: "MS" },
-      { name: "Embodiment of Scarlet Devil", tooltip: "06 - Koumakan", key: "EoSD" },
-      { name: "Perfect Cherry Blossom", tooltip: "07 - Youyoumu", key: "PCB" },
-      { name: "Immaterial and Missing Power", tooltip: "07.5 - Suimusou", key: "IaMP" },
-      { name: "Imperishable Night", tooltip: "08 - Eiyashou", key: "IN" },
-      { name: "Phantasmagoria of Flower View", tooltip: "09 - Kaeidzuka", key: "PoFV" },
-      { name: "Shoot the Bullet", tooltip: "09.5 - Bunkachou", key: "StB" },
-      { name: "Mountain of Faith", tooltip: "10 - Fuujinroku", key: "MoF" },
-      { name: "Scarlet Weather Rhapsody", tooltip: "10.5 - Hisouten", key: "SWR" },
-      { name: "Subterranean Animism", tooltip: "11 - Chireiden", key: "SA" },
-      { name: "Undefined Fantastic Object", tooltip: "12 - Seirensen", key: "UFO" },
-      { name: "Touhou Hisoutensoku", tooltip: "12.3 - Hisoutensoku", key: "soku" },
-      { name: "Double Spoiler", tooltip: "12.5 - Bunkachou", key: "DS" },
-      { name: "Great Fairy Wars", tooltip: "12.8 - Daisensou", key: "GFW" },
-      { name: "Ten Desires", tooltip: "13 - Shinreibyou", key: "TD" },
-      { name: "Hopeless Masquerade", tooltip: "13.5 - Shinkirou", key: "HM" },
-      { name: "Double Dealing Character", tooltip: "14 - Kishinjou", key: "DDC" },
-      { name: "Impossible Spell Card", tooltip: "14.3 - Amanojaku", key: "ISC" },
-      { name: "Urban Legend in Limbo", tooltip: "14.5 - Shinpiroku", key: "ULiL" },
-      { name: "Legacy of Lunatic Kingdom", tooltip: "15 - Kanjuden", key: "LoLK" },
-      { name: "Antinomy of Common Flowers", tooltip: "15.5 - Hyouibana", key: "AoCF" },
-      { name: "Hidden Star in Four Seasons", tooltip: "16 - Tenkuushou", key: "HSiFS" },
-      { name: "Violet Detector", tooltip: "16.5 - Hifuu Nightmare Diary", key: "VD" },
-      { name: "Wily Beast and Weakest Creature", tooltip: "17 - Kikeijuu", key: "WBaWC" }
+      { name: "7 Books and CDs", key: "book" },
+      { name: "7 The Highly Responsive to Prayers", tooltip: "01 - Reiiden", key: "HRtP" },
+      { name: "7 The Story of Eastern Wonderland", tooltip: "02 - Fuumaroku", key: "SoEW" },
+      { name: "7 Phantasmagoria of Dim.Dream", tooltip: "03 - Yumejikuu", key: "PoDD" },
+      { name: "7 Lotus Land Story", tooltip: "04 - Gensoukyou", key: "LLS" },
+      { name: "7 Mystic Square", tooltip: "05 - Kaikidan", key: "MS" },
+      { name: "7 Embodiment of Scarlet Devil", tooltip: "06 - Koumakan", key: "EoSD" },
+      { name: "7 Perfect Cherry Blossom", tooltip: "07 - Youyoumu", key: "PCB" },
+      { name: "7 Immaterial and Missing Power", tooltip: "07.5 - Suimusou", key: "IaMP" },
+      { name: "7 Imperishable Night", tooltip: "08 - Eiyashou", key: "IN" },
+      { name: "7 Phantasmagoria of Flower View", tooltip: "09 - Kaeidzuka", key: "PoFV" },
+      { name: "7 Shoot the Bullet", tooltip: "09.5 - Bunkachou", key: "StB" },
+      { name: "7 Mountain of Faith", tooltip: "10 - Fuujinroku", key: "MoF" },
+      { name: "7 Scarlet Weather Rhapsody", tooltip: "10.5 - Hisouten", key: "SWR" },
+      { name: "7 Subterranean Animism", tooltip: "11 - Chireiden", key: "SA" },
+      { name: "7 Undefined Fantastic Object", tooltip: "12 - Seirensen", key: "UFO" },
+      { name: "7 Touhou Hisoutensoku", tooltip: "12.3 - Hisoutensoku", key: "soku" },
+      { name: "7 Double Spoiler", tooltip: "12.5 - Bunkachou", key: "DS" },
+      { name: "7 Great Fairy Wars", tooltip: "12.8 - Daisensou", key: "GFW" },
+      { name: "7 Ten Desires", tooltip: "13 - Shinreibyou", key: "TD" },
+      { name: "7 Hopeless Masquerade", tooltip: "13.5 - Shinkirou", key: "HM" },
+      { name: "7 Double Dealing Character", tooltip: "14 - Kishinjou", key: "DDC" },
+      { name: "7 Impossible Spell Card", tooltip: "14.3 - Amanojaku", key: "ISC" },
+      { name: "7 Urban Legend in Limbo", tooltip: "14.5 - Shinpiroku", key: "ULiL" },
+      { name: "7 Legacy of Lunatic Kingdom", tooltip: "15 - Kanjuden", key: "LoLK" },
+      { name: "7 Antinomy of Common Flowers", tooltip: "15.5 - Hyouibana", key: "AoCF" },
+      { name: "7 Hidden Star in Four Seasons", tooltip: "16 - Tenkuushou", key: "HSiFS" },
+      { name: "7 Violet Detector", tooltip: "16.5 - Hifuu Nightmare Diary", key: "VD" },
+      { name: "7 Wily Beast and Weakest Creature", tooltip: "17 - Kikeijuu", key: "WBaWC" }
     ]
   },
   {
-    name: "Filter by Stage Enemy Appearances",
+    name: "7 Filter by Stage Enemy Appearances",
     key: "stage",
     tooltip: "Check this to restrict to characters that appear in certain stages as enemies.",
     checked: false,
-    sub: [ { name: "Stage 1", key: "st1" }, { name: "Stage 2", key: "st2" }, { name: "Stage 3", key: "st3" }, { name: "Stage 4", key: "st4" }, { name: "Stage 5/Penultimate", tooltip: "Stage 4 in 5-stage games, and Stage 8 in 9-stage games.", key: "st5" }, { name: "Stage 6/Final", key: "st6" }, { name: "Stage EX/Phantasm", key: "ex" }
+    sub: [ { name: "7 Stage 1", key: "st1" }, { name: "7 Stage 2", key: "st2" }, { name: "7 Stage 3", key: "st3" }, { name: "7 Stage 4", key: "st4" }, { name: "7 Stage 5/Penultimate", tooltip: "Stage 4 in 5-stage games, and Stage 8 in 9-stage games.", key: "st5" }, { name: "7 Stage 6/Final", key: "st6" }, { name: "7 Stage EX/Phantasm", key: "ex" }
     ]
   },
   {
-    name: "Remove PC-98 Duplicates",
+    name: "7 Remove PC-98 Duplicates",
     key: "pc98",
     tooltip: "Check this to remove PC-98 characters with a Windows counterpart."
   },
   {
-    name: "Remove Non-Girls",
+    name: "7 Remove Non-Girls",
     key: "notgirl",
     tooltip: "Check this to remove all non-female characters."
   },
   {
-    name: "Remove Nameless Characters",
+    name: "7 Remove Nameless Characters",
     key: "nameless",
     tooltip: "Check this to remove all characters without canonical names.",
     checked: false
@@ -67,7 +67,7 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Hakurei Reimu",
+    name: "7 Hakurei Reimu",
     img: "c5DqpgX.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC" ],
@@ -75,7 +75,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kirisame Marisa",
+    name: "7 Kirisame Marisa",
     img: "tJnkSzK.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC" ],
@@ -83,7 +83,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Rumia",
+    name: "7 Rumia",
     img: "0YT7QlS.png",
     opts: {
       series: ["book", "EoSD", "StB", "HM"],
@@ -91,7 +91,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Daiyousei",
+    name: "7 Daiyousei",
     img: "NWlZud3.png",
     opts: {
       series: ["book", "EoSD"],
@@ -100,7 +100,7 @@ dataSet[dataSetVersion].characterData = [
     },
   },
   {
-    name: "Cyrno 7",
+    name: "7 Cyrno 7",
     img: "qdveFSy.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "PoFV", "StB", "soku", "GFW", "HM", "DDC", "ISC", "HSiFS" ],
@@ -108,7 +108,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hong Meiling",
+    name: "7 Hong Meiling",
     img: "ptGp0x4.png",
     opts: {
       series: ["book", "EoSD", "IaMP", "StB", "soku"],
@@ -116,7 +116,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Koakuma",
+    name: "7 Koakuma",
     img: "vBKdDm4.png",
     opts: {
       series: ["book", "EoSD"],
@@ -125,7 +125,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Patchouli Knowledge",
+    name: "7 Patchouli Knowledge",
     img: "A7ZnuHo.png",
     opts: {
       series: ["book", "EoSD", "IaMP", "StB", "SWR", "soku", "HM"],
@@ -133,7 +133,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Izayoi Sakuya",
+    name: "7 Izayoi Sakuya",
     img: "sgZPf11.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "HM", "DDC", "ISC" ],
@@ -141,7 +141,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Remilia Scarlet",
+    name: "7 Remilia Scarlet",
     img: "8UX7hKE.png",
     opts: {
       series: ["book", "EoSD", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "VD"],
@@ -149,7 +149,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Flandre Scarlet",
+    name: "7 Flandre Scarlet",
     img: "OhaDcnc.png",
     opts: {
       series: ["book", "EoSD", "StB", "VD"],
@@ -157,7 +157,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Letty Whiterock",
+    name: "7 Letty Whiterock",
     img: "MgzqjFK.png",
     opts: {
       series: ["book", "PCB", "StB", "HM"],
@@ -165,7 +165,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Chen",
+    name: "7 Chen",
     img: "ohmetZh.png",
     opts: {
       series: ["book", "PCB", "IaMP", "StB", "SWR", "soku", "HM"],
@@ -173,7 +173,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Alice Margatroid",
+    name: "7 Alice Margatroid",
     img: "aDIf0pN.png",
     opts: {
       series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM"],
@@ -181,7 +181,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Lily White",
+    name: "7 Lily White",
     img: "2Pr8b2N.png",
     opts: {
       series: ["book", "PCB", "PoFV", "HM", "HSiFS"],
@@ -189,7 +189,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Lunasa Prismriver",
+    name: "7 Lunasa Prismriver",
     img: "htOMdDQ.png",
     opts: {
       series: ["book", "PCB", "PoFV", "HM", "AoCF"],
@@ -197,7 +197,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Merlin Prismriver",
+    name: "7 Merlin Prismriver",
     img: "PrRPujP.png",
     opts: {
       series: ["book", "PCB", "PoFV", "HM", "AoCF"],
@@ -205,7 +205,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Lyrica Prismriver",
+    name: "7 Lyrica Prismriver",
     img: "ze79bFC.png",
     opts: {
       series: ["book", "PCB", "PoFV", "HM", "AoCF"],
@@ -213,7 +213,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Konpaku Youmu",
+    name: "7 Konpaku Youmu",
     img: "WMjyRLJ.png",
     opts: {
       series: [ "book", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "soku", "TD", "HM", "ISC", "WBaWC" ],
@@ -221,7 +221,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Saigyouji Yuyuko",
+    name: "7 Saigyouji Yuyuko",
     img: "VT9mTGb.png",
     opts: {
       series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "TD", "HM", "ISC", "VD" ],
@@ -229,7 +229,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yakumo Ran",
+    name: "7 Yakumo Ran",
     img: "rshnJPV.png",
     opts: {
       series: ["book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "VD"],
@@ -237,7 +237,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yakumo Yukari",
+    name: "7 Yakumo Yukari",
     img: "qsceD4I.png",
     opts: {
       series: [ "book", "PCB", "IaMP", "IN", "StB", "SWR", "soku", "HM", "ISC", "AoCF", "VD" ],
@@ -245,7 +245,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ibuki Suika",
+    name: "7 Ibuki Suika",
     img: "pLdMjQ3.png",
     opts: {
       series: ["book", "IaMP", "StB", "SWR", "soku", "DS", "HM", "ISC", "VD"],
@@ -253,7 +253,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Wriggle Nightbug",
+    name: "7 Wriggle Nightbug",
     img: "8DLUAPf.png",
     opts: {
       series: ["book", "IN", "StB", "HM"],
@@ -261,7 +261,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Mystia Lorelei",
+    name: "7 Mystia Lorelei",
     img: "6KyhLqE.png",
     opts: {
       series: ["book", "IN", "PoFV", "StB", "HM"],
@@ -269,7 +269,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kamishirasawa Keine",
+    name: "7 Kamishirasawa Keine",
     img: "99w0Chm.png",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC"],
@@ -277,7 +277,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Inaba Tewi",
+    name: "7 Inaba Tewi",
     img: "yqNfNje.png",
     opts: {
       series: ["book", "IN", "PoFV", "StB", "HM"],
@@ -285,7 +285,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Reisen Udongein Inaba",
+    name: "7 Reisen Udongein Inaba",
     img: "PrYzRcC.png",
     opts: {
       series: ["book", "IN", "PoFV", "StB", "soku", "HM", "LoLK", "AoCF"],
@@ -293,7 +293,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yagokoro Eirin",
+    name: "7 Yagokoro Eirin",
     img: "ceo4DhK.png",
     opts: {
       series: ["book", "IN", "StB", "HM", "VD"],
@@ -301,7 +301,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Houraisan Kaguya",
+    name: "7 Houraisan Kaguya",
     img: "2YDuTk3.png",
     opts: {
       series: ["book", "IN", "StB", "HM", "VD"],
@@ -309,7 +309,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Fujiwara no Mokou",
+    name: "7 Fujiwara no Mokou",
     img: "3zo4VKV.png",
     opts: {
       series: ["book", "IN", "StB", "HM", "ISC", "ULiL", "AoCF", "VD"],
@@ -317,7 +317,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Shameimaru Aya",
+    name: "7 Shameimaru Aya",
     img: "8TLXMST.png",
     opts: {
       series: [ "book", "PoFV", "StB", "SWR", "MoF", "soku", "HM", "ISC", "HSiFS" ],
@@ -325,7 +325,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Medicine Melancholy",
+    name: "7 Medicine Melancholy",
     img: "IImsp7K.png",
     opts: {
       series: ["book", "PoFV", "StB", "HM"],
@@ -333,7 +333,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kazami Yuuka",
+    name: "7 Kazami Yuuka",
     img: "MZXJQq5.png",
     opts: {
       series: ["book", "PoFV", "StB", "HM"],
@@ -341,7 +341,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Onozuka Komachi",
+    name: "7 Onozuka Komachi",
     img: "aX4WIH8.png",
     opts: {
       series: ["book", "PoFV", "StB", "SWR", "soku", "HM"],
@@ -349,7 +349,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Shiki Eiki, Yamaxanadu",
+    name: "7 Shiki Eiki, Yamaxanadu",
     img: "nPBvatH.png",
     opts: {
       series: ["book", "PoFV", "StB", "HM", "VD"],
@@ -357,7 +357,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Aki Shizuha",
+    name: "7 Aki Shizuha",
     img: "3pDRgvR.png",
     opts: {
       series: ["MoF", "DS", "HM"],
@@ -365,7 +365,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Aki Minoriko",
+    name: "7 Aki Minoriko",
     img: "bV0DaN7.png",
     opts: {
       series: ["MoF", "DS", "HM"],
@@ -373,7 +373,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kagiyama Hina",
+    name: "7 Kagiyama Hina",
     img: "J11NjNj.png",
     opts: {
       series: ["MoF", "DS", "HM"],
@@ -381,7 +381,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kawashiro Nitori",
+    name: "7 Kawashiro Nitori",
     img: "4Ufced2.png",
     opts: {
       series: ["MoF", "DS", "HM", "ISC", "ULiL", "AoCF"],
@@ -389,7 +389,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Inubashiri Momiji",
+    name: "7 Inubashiri Momiji",
     img: "qGMjnYk.png",
     opts: {
       series: ["MoF", "DS", "ISC"],
@@ -397,7 +397,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kochiya Sanae",
+    name: "7 Kochiya Sanae",
     img: "ATTRSWU.png",
     opts: {
       series: ["MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "ISC", "LoLK"],
@@ -405,7 +405,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yasaka Kanako",
+    name: "7 Yasaka Kanako",
     img: "nQ78Lz7.png",
     opts: {
       series: ["MoF", "soku", "DS", "HM", "ISC", "VD"],
@@ -413,7 +413,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Moriya Suwako",
+    name: "7 Moriya Suwako",
     img: "yJaD5ZV.png",
     opts: {
       series: ["MoF", "SA", "soku", "DS", "HM", "ISC", "VD"],
@@ -421,7 +421,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Nagae Iku",
+    name: "7 Nagae Iku",
     img: "xgAlECj.png",
     opts: {
       series: ["SWR", "soku", "DS", "HM", "VD"],
@@ -429,7 +429,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hinanawi Tenshi",
+    name: "7 Hinanawi Tenshi",
     img: "tZLYivt.png",
     opts: {
       series: ["SWR", "soku", "DS", "HM", "ISC", "AoCF", "VD"],
@@ -437,7 +437,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kisume",
+    name: "7 Kisume",
     img: "VgJgaEf.png",
     opts: {
       series: ["SA", "DS"],
@@ -445,7 +445,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kurodani Yamame",
+    name: "7 Kurodani Yamame",
     img: "sqgJ2St.png",
     opts: {
       series: ["SA", "DS", "HM"],
@@ -453,7 +453,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Mizuhashi Parsee",
+    name: "7 Mizuhashi Parsee",
     img: "lkoAJod.png",
     opts: {
       series: ["SA", "DS", "HM"],
@@ -461,7 +461,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hoshiguma Yuugi",
+    name: "7 Hoshiguma Yuugi",
     img: "tDO653L.png",
     opts: {
       series: ["SA", "DS", "HM"],
@@ -469,7 +469,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Komeiji Satori",
+    name: "7 Komeiji Satori",
     img: "dup7Nt6.png",
     opts: {
       series: ["SA", "DS", "HM", "VD"],
@@ -477,7 +477,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kaenbyou Rin (Orin)",
+    name: "7 Kaenbyou Rin (Orin)",
     img: "uQjbw1W.png",
     opts: {
       series: ["SA", "DS", "HM"],
@@ -485,7 +485,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Reiuji Utsuho (Okuu)",
+    name: "7 Reiuji Utsuho (Okuu)",
     img: "DfdaXPW.png",
     opts: {
       series: ["SA", "soku", "DS", "HM", "VD"],
@@ -493,7 +493,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Komeiji Koishi",
+    name: "7 Komeiji Koishi",
     img: "wVCcens.png",
     opts: {
       series: ["SA", "DS", "HM", "ULiL", "AoCF", "VD"],
@@ -501,7 +501,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Nazrin",
+    name: "7 Nazrin",
     img: "EpHQbiY.png",
     opts: {
       series: ["UFO", "DS", "HM"],
@@ -509,7 +509,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Tatara Kogasa",
+    name: "7 Tatara Kogasa",
     img: "kJbv4dc.png",
     opts: {
       series: ["UFO", "TD", "DS", "HM"],
@@ -517,7 +517,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kumoi Ichirin",
+    name: "7 Kumoi Ichirin",
     img: "Fyn5yVx.png",
     opts: {
       series: ["UFO", "DS", "HM", "ULiL", "AoCF"],
@@ -525,7 +525,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Murasa Minamitsu",
+    name: "7 Murasa Minamitsu",
     img: "39KYpvW.png",
     opts: {
       series: ["UFO", "DS", "HM"],
@@ -533,7 +533,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Toramaru Shou",
+    name: "7 Toramaru Shou",
     img: "5yihisu.png",
     opts: {
       series: ["UFO", "DS", "HM"],
@@ -541,7 +541,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hijiri Byakuren",
+    name: "7 Hijiri Byakuren",
     img: "2ppPxny.png",
     opts: {
       series: ["UFO", "DS", "HM", "ISC", "ULiL", "AoCF", "VD"],
@@ -549,7 +549,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Houjuu Nue",
+    name: "7 Houjuu Nue",
     img: "zL4S8Mj.png",
     opts: {
       series: ["UFO", "DS", "TD", "HM", "VD"],
@@ -557,7 +557,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Himekaidou Hatate",
+    name: "7 Himekaidou Hatate",
     img: "LgvoTaJ.png",
     opts: {
       series: ["DS", "HM", "ISC"],
@@ -565,7 +565,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Sunny Milk",
+    name: "7 Sunny Milk",
     img: "VbqXiB6.png",
     opts: {
       series: ["book", "GFW", "HM"],
@@ -573,7 +573,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Luna Child",
+    name: "7 Luna Child",
     img: "OBqgP48.png",
     opts: {
       series: ["book", "GFW", "HM"],
@@ -581,7 +581,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Star Sapphire",
+    name: "7 Star Sapphire",
     img: "sNw61ap.png",
     opts: {
       series: ["book", "GFW", "HM"],
@@ -589,7 +589,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kasodani Kyouko",
+    name: "7 Kasodani Kyouko",
     img: "sLiqEBA.png",
     opts: {
       series: ["TD", "HM", "ISC"],
@@ -597,7 +597,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Miyako Yoshika",
+    name: "7 Miyako Yoshika",
     img: "6jq6eh6.png",
     opts: {
       series: ["TD", "HM", "ISC"],
@@ -605,7 +605,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kaku Seiga",
+    name: "7 Kaku Seiga",
     img: "090hLPL.png",
     opts: {
       series: ["TD", "HM", "ISC"],
@@ -613,7 +613,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Soga no Tojiko",
+    name: "7 Soga no Tojiko",
     img: "y0UXwFO.png",
     opts: {
       series: ["TD", "HM"],
@@ -621,7 +621,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Mononobe no Futo",
+    name: "7 Mononobe no Futo",
     img: "WTZ97LE.png",
     opts: {
       series: ["TD", "HM", "ISC", "ULiL", "AoCF"],
@@ -629,7 +629,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Toyosatomimi no Miko",
+    name: "7 Toyosatomimi no Miko",
     img: "3Xiqd22.png",
     opts: {
       series: ["TD", "HM", "ISC", "ULiL", "AoCF", "VD"],
@@ -637,7 +637,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Futatsuiwa Mamizou",
+    name: "7 Futatsuiwa Mamizou",
     img: "gMpWdmA.png",
     opts: {
       series: ["TD", "HM", "ISC", "ULiL", "AoCF", "VD"],
@@ -645,7 +645,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hata no Kokoro",
+    name: "7 Hata no Kokoro",
     img: "fxCGmUk.png",
     opts: {
       series: ["book", "HM", "ULiL", "AoCF"],
@@ -653,7 +653,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Wakasagihime",
+    name: "7 Wakasagihime",
     img: "brWCLVx.png",
     opts: {
       series: ["DDC", "ISC"],
@@ -661,7 +661,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Sekibanki",
+    name: "7 Sekibanki",
     img: "VAMLiJD.png",
     opts: {
       series: ["DDC", "ISC"],
@@ -669,7 +669,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Imaizumi Kagerou",
+    name: "7 Imaizumi Kagerou",
     img: "qwwL0bB.png",
     opts: {
       series: ["DDC", "ISC"],
@@ -677,7 +677,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Tsukumo Benben",
+    name: "7 Tsukumo Benben",
     img: "vWNeMaH.png",
     opts: {
       series: ["DDC", "ISC"],
@@ -685,7 +685,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Tsukumo Yatsuhashi",
+    name: "7 Tsukumo Yatsuhashi",
     img: "EJFQHQN.png",
     opts: {
       series: ["DDC", "ISC"],
@@ -693,7 +693,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kijin Seija",
+    name: "7 Kijin Seija",
     img: "16RUacj.png",
     opts: {
       series: ["DDC", "ISC"],
@@ -701,7 +701,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Sukuna Shinmyoumaru",
+    name: "7 Sukuna Shinmyoumaru",
     img: "Zl2tN7W.png",
     opts: {
       series: ["DDC", "ISC", "ULiL", "AoCF", "VD"],
@@ -709,7 +709,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Horikawa Raiko",
+    name: "7 Horikawa Raiko",
     img: "SLLEccR.png",
     opts: {
       series: ["DDC", "ISC", "AoCF", "VD"],
@@ -717,7 +717,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Usami Sumireko",
+    name: "7 Usami Sumireko",
     img: "mc7ICW6.png",
     opts: {
       series: ["ULiL", "AoCF", "VD"],
@@ -725,7 +725,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Seiran",
+    name: "7 Seiran",
     img: "0ra00WG.png",
     opts: {
       series: ["LoLK", "VD"],
@@ -733,7 +733,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ringo",
+    name: "7 Ringo",
     img: "xQOsFlZ.png",
     opts: {
       series: ["LoLK", "VD"],
@@ -741,7 +741,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Doremy Sweet",
+    name: "7 Doremy Sweet",
     img: "rGS7dyn.png",
     opts: {
       series: ["LoLK", "AoCF", "VD"],
@@ -749,7 +749,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kishin Sagume",
+    name: "7 Kishin Sagume",
     img: "HLT338X.png",
     opts: {
       series: ["LoLK", "VD"],
@@ -757,7 +757,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Clownpiece",
+    name: "7 Clownpiece",
     img: "9Jje7ZQ.jpg",
     opts: {
       series: ["LoLK", "VD"],
@@ -765,7 +765,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Junko",
+    name: "7 Junko",
     img: "NsfLZjY.jpg",
     opts: {
       series: ["LoLK", "VD"],
@@ -773,7 +773,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hecatia Lapislazuli",
+    name: "7 Hecatia Lapislazuli",
     img: "EH3Ulol.png",
     opts: {
       series: ["LoLK", "VD"],
@@ -781,7 +781,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Eternity Larva",
+    name: "7 Eternity Larva",
     img: "ql5KxJH.png",
     opts: {
       series: ["HSiFS", "VD"],
@@ -789,7 +789,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Sakata Nemuno",
+    name: "7 Sakata Nemuno",
     img: "gYFhJ3Y.png",
     opts: {
       series: ["HSiFS", "VD"],
@@ -797,7 +797,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Komano Aunn",
+    name: "7 Komano Aunn",
     img: "wWUStkF.png",
     opts: {
       series: ["HSiFS", "VD"],
@@ -805,7 +805,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yatadera Narumi",
+    name: "7 Yatadera Narumi",
     img: "wrPVhAo.png",
     opts: {
       series: ["HSiFS", "VD"],
@@ -813,7 +813,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Nishida Satono",
+    name: "7 Nishida Satono",
     img: "8w9gAy2.png",
     opts: {
       series: ["HSiFS", "VD"],
@@ -821,7 +821,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Teireida Mai",
+    name: "7 Teireida Mai",
     img: "DesAqAC.png",
     opts: {
       series: ["HSiFS", "VD"],
@@ -829,7 +829,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Matara Okina",
+    name: "7 Matara Okina",
     img: "icWvMyo.png",
     opts: {
       series: ["HSiFS", "VD"],
@@ -837,7 +837,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yorigami Shion",
+    name: "7 Yorigami Shion",
     img: "LenxXR4.png",
     opts: {
       series: ["AoCF"],
@@ -845,7 +845,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yorigami Joon",
+    name: "7 Yorigami Joon",
     img: "V9OznT1.png",
     opts: {
       series: ["AoCF"],
@@ -853,7 +853,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ebisu Eika",
+    name: "7 Ebisu Eika",
     img: "Ke3316E.png",
     opts: {
       series: ["WBaWC"],
@@ -861,7 +861,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ushizaki Urumi",
+    name: "7 Ushizaki Urumi",
     img: "ru2vIIW.png",
     opts: {
       series: ["WBaWC"],
@@ -869,7 +869,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Niwatari Kutaka",
+    name: "7 Niwatari Kutaka",
     img: "QTQt0ZL.png",
     opts: {
       series: ["WBaWC"],
@@ -877,7 +877,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kicchou Yachie",
+    name: "7 Kicchou Yachie",
     img: "CzcIMxF.png",
     opts: {
       series: ["WBaWC"],
@@ -885,7 +885,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Joutouguu Mayumi",
+    name: "7 Joutouguu Mayumi",
     img: "GxeziYO.png",
     opts: {
       series: ["WBaWC"],
@@ -893,7 +893,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Haniyasushin Keiki",
+    name: "7 Haniyasushin Keiki",
     img: "Z4jclTi.png",
     opts: {
       series: ["WBaWC"],
@@ -901,7 +901,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kurokoma Saki",
+    name: "7 Kurokoma Saki",
     img: "H2v2GPy.png",
     opts: {
       series: ["WBaWC"],
@@ -909,7 +909,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hieda no Akyuu",
+    name: "7 Hieda no Akyuu",
     img: "ogONuLZ.png",
     opts: {
       series: ["book"],
@@ -917,7 +917,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   { 
-    name: "Tokiko",
+    name: "7 Tokiko",
     img: "Y4maOc8.png", 
     opts: {
       series: ["book"],
@@ -926,7 +926,7 @@ dataSet[dataSetVersion].characterData = [
     } 
   },
   {
-    name: "Reisen (Manga)",
+    name: "7 Reisen (Manga)",
     img: "cWjCo2j.png",
     opts: {
       series: ["book"],
@@ -934,7 +934,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Watatsuki no Toyohime",
+    name: "7 Watatsuki no Toyohime",
     img: "uEBxsEX.png",
     opts: {
       series: ["book"],
@@ -942,7 +942,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Watatsuki no Yorihime",
+    name: "7 Watatsuki no Yorihime",
     img: "Txu2P7S.png",
     opts: {
       series: ["book"],
@@ -950,7 +950,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Maribel Hearn",
+    name: "7 Maribel Hearn",
     img: "XUI9vPo.png",
     opts: {
       series: ["book"],
@@ -958,7 +958,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Usami Renko",
+    name: "7 Usami Renko",
     img: "1P5EXRt.png",
     opts: {
       series: ["book"],
@@ -966,7 +966,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ibaraki Kasen",
+    name: "7 Ibaraki Kasen",
     img: "dQHnPPe.png",
     opts: {
       series: ["book", "ULiL", "AoCF"],
@@ -974,7 +974,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Motoori Kosuzu",
+    name: "7 Motoori Kosuzu",
     img: "jEsJJo8.png",
     opts: {
       series: ["book"],
@@ -982,7 +982,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Okunoda Miyoi",
+    name: "7 Okunoda Miyoi",
     img: "JZnExhN.png",
     opts: {
       series: ["book"],
@@ -990,7 +990,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hakurei Reimu (PC-98)",
+    name: "7 Hakurei Reimu (PC-98)",
     img: "IZsGAMS.png",
     opts: {
       series: ["HRtP", "SoEW", "PoDD", "LLS", "MS"],
@@ -999,7 +999,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Shingyoku (Female)",
+    name: "7 Shingyoku (Female)",
     img: "KuPiR2k.png",
     opts: {
       series: ["HRtP"],
@@ -1007,7 +1007,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Mima",
+    name: "7 Mima",
     img: "odH03t2.png",
     opts: {
       series: ["HRtP", "SoEW", "PoDD", "MS"],
@@ -1015,7 +1015,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Elis",
+    name: "7 Elis",
     img: "ytnL1xd.png",
     opts: {
       series: ["HRtP"],
@@ -1023,7 +1023,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kikuri",
+    name: "7 Kikuri",
     img: "fX2Kqik.png",
     opts: {
       series: ["HRtP"],
@@ -1031,7 +1031,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Sariel",
+    name: "7 Sariel",
     img: "Wyc7YFw.png",
     opts: {
       series: ["HRtP"],
@@ -1039,7 +1039,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Konngara",
+    name: "7 Konngara",
     img: "dg9jLHv.png",
     opts: {
       series: ["HRtP"],
@@ -1047,7 +1047,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Rika",
+    name: "7 Rika",
     img: "02Xb4pU.png",
     opts: {
       series: ["SoEW"],
@@ -1055,7 +1055,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Meira",
+    name: "7 Meira",
     img: "p529JgT.png",
     opts: {
       series: ["SoEW"],
@@ -1063,7 +1063,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kirisame Marisa (PC-98)",
+    name: "7 Kirisame Marisa (PC-98)",
     img: "wxE7cBm.png",
     opts: {
       series: ["SoEW", "PoDD", "LLS", "MS"],
@@ -1071,12 +1071,12 @@ dataSet[dataSetVersion].characterData = [
       pc98: true
     }
   },
-  { name: "Ellen", img: "3iNNL0c.png", opts: {
+  { name: "7 Ellen", img: "3iNNL0c.png", opts: {
       series: ["PoDD"],
       stage: []
     } },
   {
-    name: "Kotohime",
+    name: "7 Kotohime",
     img: "kRSGtpq.png",
     opts: {
       series: ["PoDD"],
@@ -1084,7 +1084,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kana Anaberal",
+    name: "7 Kana Anaberal",
     img: "rBvKMk5.png",
     opts: {
       series: ["PoDD"],
@@ -1092,7 +1092,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Asakura Rikako",
+    name: "7 Asakura Rikako",
     img: "VIf5gUK.png",
     opts: {
       series: ["PoDD"],
@@ -1100,7 +1100,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kitashirakawa Chiyuri",
+    name: "7 Kitashirakawa Chiyuri",
     img: "tZFBycy.png",
     opts: {
       series: ["PoDD"],
@@ -1108,7 +1108,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Okazaki Yumemi",
+    name: "7 Okazaki Yumemi",
     img: "c9rnG3n.png",
     opts: {
       series: ["PoDD"],
@@ -1116,7 +1116,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ruukoto",
+    name: "7 Ruukoto",
     img: "dko67SJ.png",
     opts: {
       series: ["PoDD"],
@@ -1124,7 +1124,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Orange",
+    name: "7 Orange",
     img: "m8wXE5U.png",
     opts: {
       series: ["LLS"],
@@ -1132,7 +1132,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kurumi",
+    name: "7 Kurumi",
     img: "0rvq1ph.png",
     opts: {
       series: ["LLS"],
@@ -1140,7 +1140,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Elly",
+    name: "7 Elly",
     img: "iIPftHn.png",
     opts: {
       series: ["LLS"],
@@ -1148,7 +1148,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yuuka (PC-98)",
+    name: "7 Yuuka (PC-98)",
     img: "ivUSwxp.png",
     opts: {
       series: ["LLS", "MS"],
@@ -1157,7 +1157,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Mugetsu",
+    name: "7 Mugetsu",
     img: "bYA9E16.png",
     opts: {
       series: ["LLS"],
@@ -1165,7 +1165,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Gengetsu",
+    name: "7 Gengetsu",
     img: "TIOTtV9.png",
     opts: {
       series: ["LLS"],
@@ -1173,7 +1173,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Sara",
+    name: "7 Sara",
     img: "2QUbCrU.png",
     opts: {
       series: ["MS"],
@@ -1181,7 +1181,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Louise",
+    name: "7 Louise",
     img: "nDM5aB6.png",
     opts: {
       series: ["MS"],
@@ -1189,7 +1189,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Alice (PC-98)",
+    name: "7 Alice (PC-98)",
     img: "KaBuRTW.png",
     opts: {
       series: ["MS"],
@@ -1198,19 +1198,19 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yuki",
+    name: "7 Yuki",
     img: "FfcmDgp.png",
     opts: {
       series: ["MS"],
       stage: ["st4"]
     }
   },
-  { name: "Mai", img: "r6w7TX1.png", opts: {
+  { name: "7 Mai", img: "r6w7TX1.png", opts: {
       series: ["MS"],
       stage: ["st4"]
     } },
   {
-    name: "Yumeko",
+    name: "7 Yumeko",
     img: "PcPqkdO.png",
     opts: {
       series: ["MS"],
@@ -1218,7 +1218,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Shinki",
+    name: "7 Shinki",
     img: "gPE95S7.png",
     opts: {
       series: ["MS"],
@@ -1226,7 +1226,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Mimi-chan",
+    name: "7 Mimi-chan",
     img: "zBl2zlv.png",
     opts: {
       series: ["PoDD"],
@@ -1235,7 +1235,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Unzan",
+    name: "7 Unzan",
     img: "r5eWREh.png",
     opts: {
       series: ["UFO", "DS", "HM", "ULiL", "AoCF"],
@@ -1244,7 +1244,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Genji",
+    name: "7 Genji",
     img: "LoUqOuH.png",
     opts: {
       series: ["SoEW", "PoDD", "LLS", "MS"],
@@ -1253,7 +1253,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Shingyoku (Male)",
+    name: "7 Shingyoku (Male)",
     img: "a5uwlgN.png",
     opts: {
       series: ["HRtP"],
@@ -1262,7 +1262,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "YuugenMagan",
+    name: "7 YuugenMagan",
     img: "IOW8GdU.png",
     opts: {
       series: ["HRtP"],
@@ -1271,7 +1271,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Evil Eye Sigma",
+    name: "7 Evil Eye Sigma",
     img: "rAFUMwE.png",
     opts: {
       series: ["SoEW"],
@@ -1280,7 +1280,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Great Catfish",
+    name: "7 Great Catfish",
     img: "BgRi9Oh.png",
     opts: {
       series: ["soku", "AoCF"],
@@ -1290,7 +1290,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Morichika Rinnosuke",
+    name: "7 Morichika Rinnosuke",
     img: "ITUhsGj.png",
     opts: {
       series: ["book", "HM"],
@@ -1299,7 +1299,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Fortune Teller",
+    name: "7 Fortune Teller",
     img: "BYot23O.png",
     opts: {
       series: ["book"],
@@ -1309,7 +1309,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hisoutensoku",
+    name: "7 Hisoutensoku",
     img: "P4JZ2it.png",
     opts: {
       series: ["soku"],

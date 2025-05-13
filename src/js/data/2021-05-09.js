@@ -64,34 +64,34 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "9 Hakurei Reimu",
-    img: "izzjmk6.jpg",
+    name: "design 1",
+    img: "0HYMYv7.png",
     opts: {
       series: ["book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "SWR", "SA", "UFO", "Soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK"],
       stage: ["st4"]
     }
   },
   {
-    name: "9 Kirisame Marisa",
-    img: "izzjmk6.jpg",
+    name: "coice 1.5",
+    img: "Byul0Ms.png",
     opts: {
       series: ["book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "SWR", "SA", "UFO", "Soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK"],
       stage: ["st4", "ex"]
     }
   },
   {
-    name: "9 Rumia",
-    img: "izzjmk6.jpg",
+    name: "design 3",
+    img: "5hkvqOw.png",
     opts: { series: ["book", "EoSD", "StB", "HM"], stage: ["st1"] }
   },
   {
-    name: "9 Daiyousei",
-    img: "izzjmk6.jpg",
+    name: "design 4",
+    img: "WDSERvX.png",
     opts: { series: ["book", "EoSD"], stage: ["st2", "ex"] }
   },
   {
-    name: "9 cirno less",
-    img: "izzjmk6.jpg",
+    name: "design 5",
+    img: "PTKAy1d.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "PoFV", "StB", "Soku", "GFW", "HM", "DDC", "ISC"
       ],
@@ -99,21 +99,142 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "9 Hong Meiling",
-    img: "izzjmk6.jpg",
+    name: "design 6",
+    img: "n1QAjZW.png", 
     opts: { series: ["book", "EoSD", "IaMP", "StB", "Soku"], stage: ["st3"] }
   },
   {
-    name: "9 Koakuma",
-    img: "izzjmk6.jpg",
+    name: "design 6.5",
+    img: "pJO1PnD.png", 
     opts: { series: ["book", "EoSD"], stage: ["st4"] }
   },
   {
-    name: "9 Patchouli Knowledge",
-    img: "izzjmk6.jpg",
+    name: "design 7",
+    img: "AJLYB0S.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 8",
+    img: "0k4QsVg.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 9",
+    img: "pnlz7Wh.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 10",
+    img: "R1Y2Yty.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 11",
+    img: "tcFuxPP.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 12",
+    img: "Q9YKRK0.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 13",
+    img: "koULG4k.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 14",
+    img: "s88oO1q.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 15",
+    img: "ULjlRcK.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 16",
+    img: "l58HmGj.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 17",
+    img: "AGTNpO4.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 18",
+    img: "Y35TD3Z.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 19",
+    img: "mt6yVft.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 20",
+    img: "EVCEWqT.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 21",
+    img: "BdVDZYz.png", 
+    opts: {
+      series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
+      stage: ["st4", "ex"]
+    }
+  },
+  {
+    name: "design 22",
+    img: "YZDwB7o.png",
     opts: {
       series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
       stage: ["st4", "ex"]
     }
   }
+
 ];
