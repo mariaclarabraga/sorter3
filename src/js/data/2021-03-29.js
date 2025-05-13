@@ -69,14 +69,16 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "8 Hakurei Reimu",
-    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png"    opts: {
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png" , 
+    opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
       stage: ["st4"]
     }
   },
   {
     name: "8 Kirisame Marisa",
-    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png"    opts: {
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png" ,
+      opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
       stage: ["st4", "ex"]
     }
@@ -165,7 +167,8 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "8 Chen",
-    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png"    opts: {
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png" ,
+      opts: {
       series: ["book", "PCB", "IaMP", "StB", "SWR", "soku", "HM"],
       stage: ["st2", "ex"]
     }
