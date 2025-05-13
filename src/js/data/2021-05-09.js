@@ -73,7 +73,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kirisame Marisa",
-    img: "tJnkSzK.png",
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png"",
     opts: {
       series: ["book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "SWR", "SA", "UFO", "Soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK"],
       stage: ["st4", "ex"]
@@ -81,17 +81,17 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Rumia",
-    img: "0YT7QlS.png",
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png",
     opts: { series: ["book", "EoSD", "StB", "HM"], stage: ["st1"] }
   },
   {
     name: "Daiyousei",
-    img: "NWlZud3.png",
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png",
     opts: { series: ["book", "EoSD"], stage: ["st2", "ex"] }
   },
   {
     name: "Cirno",
-    img: "qdveFSy.png",
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "PoFV", "StB", "Soku", "GFW", "HM", "DDC", "ISC"
       ],
@@ -100,17 +100,17 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hong Meiling",
-    img: "ptGp0x4.png",
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png",
     opts: { series: ["book", "EoSD", "IaMP", "StB", "Soku"], stage: ["st3"] }
   },
   {
     name: "Koakuma",
-    img: "vBKdDm4.png",
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png",
     opts: { series: ["book", "EoSD"], stage: ["st4"] }
   },
   {
     name: "Patchouli Knowledge",
-    img: "A7ZnuHo.png",
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png",
     opts: {
       series: ["book", "EoSD", "IaMP", "StB", "MoF", "Soku", "HM"],
       stage: ["st4", "ex"]
@@ -118,7 +118,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Izayoi Sakuya",
-    img: "sgZPf11.png",
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "Soku", "HM", "DDC", "ISC"
       ],
@@ -127,7 +127,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Remilia Scarlet",
-    img: "8UX7hKE.png",
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png",
     opts: {
       series: ["book", "EoSD", "IaMP", "IN", "StB", "MoF", "Soku", "HM", "ISC"],
       stage: ["st6"]
@@ -135,17 +135,17 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Flandre Scarlet",
-    img: "OhaDcnc.png",
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png",
     opts: { series: ["book", "EoSD", "StB"], stage: ["ex"] }
   },
   {
     name: "Letty Whiterock",
-    img: "MgzqjFK.png",
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png",
     opts: { series: ["book", "PCB", "StB", "HM"], stage: ["st1"] }
   },
   {
     name: "Chen",
-    img: "ohmetZh.png",
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png",
     opts: {
       series: ["book", "PCB", "IaMP", "StB", "MoF", "Soku", "HM"],
       stage: ["st2", "ex"]
@@ -153,7 +153,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Alice Margatroid",
-    img: "aDIf0pN.png",
+    img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png",
     opts: {
       series: ["book", "PCB", "IaMP", "IN", "StB", "MoF", "Soku", "HM"],
       stage: ["st3"]
