@@ -91,7 +91,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Cirno",
+    name: "Cyrno 3",
     img: "qdveFSy.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "PoFV", "StB", "soku", "GFW", "HM", "DDC", "ISC", "HSiFS" ],

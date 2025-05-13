@@ -90,7 +90,7 @@ dataSet[dataSetVersion].characterData = [
     opts: { series: ["book", "EoSD"], stage: ["st2", "ex"] }
   },
   {
-    name: "Cyrno",
+    name: "cyrno 9",
     img: "playstation-1-graphics-low-poly-style-graphics-horror-game-silent-hill--woman-in-dress-holding-f-432100773.png",
     opts: {
       series: [ "book", "EoSD", "PCB", "PoFV", "StB", "Soku", "GFW", "HM", "DDC", "ISC"
