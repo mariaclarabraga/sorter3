@@ -90,7 +90,7 @@ dataSet[dataSetVersion].characterData = [
     opts: { series: ["book", "EoSD"], stage: ["st2", "ex"] }
   },
   {
-    name: "9 cyrno 9",
+    name: "9 cirno less",
     img: "izzjmk6.jpg",
     opts: {
       series: [ "book", "EoSD", "PCB", "PoFV", "StB", "Soku", "GFW", "HM", "DDC", "ISC"
