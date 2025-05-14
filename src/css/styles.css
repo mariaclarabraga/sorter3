@@ -18,6 +18,13 @@ body {
   display: none;
 }
 
+.rainbow-text {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, rgb(182, 170, 38), orange, red);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
 .progressbar {
   position: relative;
   width: 492px;
@@ -36,7 +43,7 @@ body {
 
 .progressfill {
   height: 20px;
-  background-color: lightgreen;
+  background-color: rgb(255, 149, 199);
   width: 0%;
 }
 

@@ -72,7 +72,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "coice 1.5",
+    name: "design 2",
     img: "Byul0Ms.png",
     opts: {
       series: ["book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "MoF", "SWR", "SA", "UFO", "Soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK"],
@@ -81,8 +81,8 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "design 3",
-    img: "5hkvqOw.png",
-    opts: { series: ["book", "EoSD", "StB", "HM"], stage: ["st1"] }
+    img: "pJO1PnD.png", 
+    opts: { series: ["book", "EoSD"], stage: ["st4"] }
   },
   {
     name: "design 4",
@@ -102,11 +102,6 @@ dataSet[dataSetVersion].characterData = [
     name: "design 6",
     img: "n1QAjZW.png", 
     opts: { series: ["book", "EoSD", "IaMP", "StB", "Soku"], stage: ["st3"] }
-  },
-  {
-    name: "design 6.5",
-    img: "pJO1PnD.png", 
-    opts: { series: ["book", "EoSD"], stage: ["st4"] }
   },
   {
     name: "design 7",
